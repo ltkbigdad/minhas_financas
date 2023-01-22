@@ -5,6 +5,13 @@ Este projeto é um app para android de controle de finanças criado com o objeti
 Criado com react-native.
 Bibliotecas utilizadas: vector-icons, moti.
 
+# my_finances_with_react-native
+
+This project is a financial control app for Android created with the aim of putting into practice the knowledge I'm acquiring in react native.
+
+Created with react-native.
+Libraries used: vector-icons, moti.
+
 
 https://user-images.githubusercontent.com/90732177/213922505-f0d06ca7-2478-4e9d-a6c6-8f4a78d85b81.mp4
 
